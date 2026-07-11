@@ -32,3 +32,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueleze1&layout=compact&theme=radical" alt="Top Languages" />
 
 </p>
+## 🚀 Featured Projects
+
+### ☁️ Azure Project
+
+https://dev.to/azuretrailblazer
+
+## 🏅 Certifications
+
+- 🏆 Microsoft Applied Skills: Get started with Azure management tasks:https://learn.microsoft.com/api/credentials/share/en-us/samueleze-7111/E48296270708B0F1?sharingId=20E65231C26DBE10
+- 🏆 Microsoft Applied Skills:Secure storage for azure files and azure blob storage:https://learn.microsoft.com/api/credentials/share/en-us/samueleze-7111/20E40441341DA492?sharingId=20E65231C26DBE10
