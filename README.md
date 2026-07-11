@@ -4,12 +4,19 @@
 
 <h3 align="center">A passionate Aspiring Cloud Engineer from Nigeria</h3>
 <!-- Intro/Bio -->
+☁️ Aspiring Cloud & DevOps Engineer
 
-- 🔭 I’m currently working on Azure Cloud Projects,Linux,Git,Github
+🐧 Passionate about Linux, Cloud Computing, and Open-Source Technologies
 
-- 🌱 I’m currently learning **Microsoft Azure, Git, Linux, and Bash**
+🚀 Currently building hands-on projects in Microsoft Azure, Git, GitHub, Linux, and Docker
 
-- 💬 Ask me about **Git, Linux Commands, and Azure Fundamentals**
+🌱 Continuously learning Docker, Azure Administration, Bash Scripting, and DevOps
+
+
+🎯 Goal: To become a highly skilled Cloud & DevOps Engineer
+
+⚡ I believe in learning by building real-world projects.
+
 
 - 📫 How to reach me: sammie4jarah@gmail.com,www.linkedin.com/in/samuelcloud
 <!-- Tech Stack (Using DevIcons) -->
