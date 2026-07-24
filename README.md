@@ -63,6 +63,15 @@ Contributed to [PinpointPro](https://github.com/raphgm/pinpointpro), an open-sou
 
 ---
 
+# 🎓 Microsoft Applied Skills
+
+| Credential | Link |
+|---|---|
+| Get Started with Azure Management Tasks | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/samueleze-7111/E48296270708B0F1?sharingId=20E65231C26DBE10) |
+| Secure Storage for Azure Files and Azure Blob Storage | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/samueleze-7111/20E40441341DA492?sharingId=20E65231C26DBE10) |
+
+---
+
 # 🏆 Certifications & Achievements
 > No certifications earned yet — actively working toward these. Will update as I complete them.
 
