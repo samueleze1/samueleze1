@@ -1,55 +1,89 @@
-<!-- Header Section -->
+# Hi 👋, I'm Samuel Eze
 
-<h1 align="center">Hi 👋, I'm Samuel Eze</h1>
+**Aspiring Cloud Engineer • Software Developer • DevOps Enthusiast**
 
-<h3 align="center">A passionate Aspiring Cloud Engineer from Nigeria</h3>
-<!-- Intro/Bio -->
+Welcome to my GitHub profile! I'm passionate about learning new technologies,
+building real-world projects, and continuously improving my technical skills.
 
-☁️ Aspiring Cloud & DevOps Engineer
+---
 
-🐧 Passionate about Linux, Cloud Computing, and Open-Source Technologies
+# 👨‍💻 About Me
 
-🚀 Currently building hands-on projects in Microsoft Azure, Git, GitHub, Linux, and Docker
+- 🔭 I'm currently building hands-on projects in **Microsoft Azure, Git, GitHub, Linux, and Docker**
+- 🌱 I'm currently learning **Docker, Azure Administration, Bash Scripting, and DevOps**
+- 🤝 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Programming, Cloud, Linux, or DevOps**
+- 🎯 My goal is to become a **Cloud & DevOps Engineer**
+- 📫 Reach me at **sammie4jarah@gmail.com**
 
-🌱 Continuously learning Docker, Azure Administration, Bash Scripting, and DevOps
+---
 
-🎯 Goal: To become a highly skilled Cloud & DevOps Engineer
+# 🌐 Connect With Me
 
-⚡ I believe in learning by building real-world projects.
+[![](https://skillicons.dev/icons?i=github)](https://github.com/samueleze1)
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samuelcloud)
+[![](https://skillicons.dev/icons?i=devto)](https://dev.to/azuretrailblazer)
 
-📫 How to reach me:
+---
 
- **sammie4jarah@gmail.com**
+# 💻 Technologies & Tools
 
- **https://www.linkedin.com/in/samuelcloud**
+![](https://skillicons.dev/icons?i=azure,docker,git,github,linux,bash,vscode,powershell)
 
- **https://dev.to/azuretrailblazer**
+---
 
-<!-- Tech Stack -->
+# 🚀 Featured Projects
 
-## 🛠️ Tech Stack
+## 🌟 Simple Container Lab
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,bash,vscode,powershell" />
+Containerizing a Node.js application with Docker, and managing the project with Git version control.
 
+**Repository:** https://github.com/samueleze1/simple-container-lab
 
-## 🛠️ Microsoft Applied Skills
+---
 
-✅ Get Started with Azure Management Tasks
+## 🌟 DevOps Workstation Setup
 
-✅ Secure Storage for Azure Files and Azure Blob Storage
+Setup notes and tooling for a DevOps workstation — Git, Azure CLI, Docker, Terraform, and VS Code.
 
+**Repository:** https://github.com/samueleze1/devops-workstation-setup
 
- ## feature project
-- 🏆 Microsoft Applied Skills: Get started with Azure management tasks:https://learn.microsoft.com/api/credentials/share/en-us/samueleze-7111/E48296270708B0F1?sharingId=20E65231C26DBE10
+---
 
-- 🏆 Microsoft Applied Skills:Secure storage for azure files and azure blob storage:https://learn.microsoft.com/api/credentials/share/en-us/samueleze-7111/20E40441341DA492?sharingId=20E65231C26DBE10
+# 🤝 Open Source Contributions
 
-📖 **Technical Articles & Projects**
-- https://dev.to/azuretrailblazer
+### 📌 PinpointPro
+Contributed to [PinpointPro](https://github.com/raphgm/pinpointpro), an open-source location intelligence project, by improving project documentation and maintaining contributor records.
 
+✅ **PR #3 – CONTRIBUTORS.md Update**
+- Added my details to the project's `CONTRIBUTORS.md` as a Phase 2 Project Contributor.
+- Helped keep contributor records accurate and acknowledge community participation.
 
+🔗 Pull Request: [raphgm/pinpointpro#3](https://github.com/raphgm/pinpointpro/pull/3)
 
- ☁️ **Azure Projects** (Coming Soon)
+---
 
- ☸️ **Cloud & DevOps Projects** (Coming Soon)
+# 🏆 Certifications & Achievements
+> No certifications earned yet — actively working toward these. Will update as I complete them.
+
+---
+
+# 📈 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=samueleze1&show_icons=true&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samueleze1&layout=compact&theme=default)
+
+---
+
+# 🎯 2026 Goals
+
+- [ ] Build real-world cloud projects
+- [ ] Contribute to Open Source
+- [ ] Earn Cloud Certifications
+- [ ] Learn Kubernetes
+- [ ] Improve Linux Skills
+- [ ] Land a Cloud Engineering Role
+
+---
+
+⭐ Thank you for visiting my profile! ⭐
