@@ -55,11 +55,11 @@ Setup notes and tooling for a DevOps workstation — Git, Azure CLI, Docker, Ter
 ### 📌 PinpointPro
 Contributed to [PinpointPro](https://github.com/raphgm/pinpointpro), an open-source location intelligence project, by improving project documentation and maintaining contributor records.
 
-✅ **PR #3 – CONTRIBUTORS.md Update**
+✅ **PR #5 – CONTRIBUTORS.md Update**
 - Added my details to the project's `CONTRIBUTORS.md` as a Phase 2 Project Contributor.
 - Helped keep contributor records accurate and acknowledge community participation.
 
-🔗 Pull Request: [raphgm/pinpointpro#3](https://github.com/raphgm/pinpointpro/pull/3)
+🔗 Pull Request: [raphgm/pinpointpro#5](https://github.com/raphgm/pinpointpro/pull/5)
 
 ---
 
