@@ -50,6 +50,13 @@ Setup notes and tooling for a DevOps workstation — Git, Azure CLI, Docker, Ter
 
 ---
 
+## 🌟 WordPress Deployment Using Docker Compose
+
+Deploying a multi-container WordPress application using Docker Compose, MySQL, Docker volumes, and Git version control.
+
+**Repository:** https://github.com/samueleze1/wordpress-docker-lab.git
+
+
 # 🤝 Open Source Contributions
 
 ### 📌 PinpointPro
