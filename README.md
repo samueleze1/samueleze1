@@ -32,7 +32,14 @@ building real-world projects, and continuously improving my technical skills.
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured projects
+
+## 🌟 Global Retail Azure Infrastructure Deployment Using Azure CLI
+
+An end-to-end Azure infrastructure deployment project built with Azure CLI, featuring Linux and Windows virtual machines, virtual networking, NSGs, IIS configuration, SSH/RDP connectivity, and a Windows 11 VM deployed in an Availability Zone for high availability.
+
+**Repository:** https://github.com/samueleze1/-Global-Retail-Azure-Infrastructure-Deployment-Using-Azure-CLI.git
+
 
 ## 🌟 Simple Container Lab
 
