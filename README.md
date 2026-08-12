@@ -69,6 +69,12 @@ Hands-on YAML project covering YAML fundamentals, nested structures, lists, data
 
 🔗 **Repository:** (https://github.com/samueleze1/YAML-Learning-Lab)
 
+## 🌟 Kubernetes YAML Architect
+
+A hands-on Kubernetes project focused on creating and structuring an Nginx Pod manifest using YAML, with practical experience in Kubernetes configuration, YAML syntax, Git, and GitHub.
+
+Repository: https://github.com/samueleze1/YAML-Architect.git
+
 
 
 
