@@ -64,6 +64,15 @@ Deploying a multi-container WordPress application using Docker Compose, MySQL, D
 **Repository:** https://github.com/samueleze1/wordpress-docker-lab.git
 
 
+## 📘 YAML Learning Lab
+Hands-on YAML project covering YAML fundamentals, nested structures, lists, data types, anchors and aliases, multi-line text, GitHub Actions workflows, application configuration, and Git version control.
+
+🔗 **Repository:** (https://github.com/samueleze1/YAML-Learning-Lab)
+
+
+
+
+
 # 🤝 Open Source Contributions
 
 ### 📌 PinpointPro
@@ -77,12 +86,14 @@ Contributed to [PinpointPro](https://github.com/raphgm/pinpointpro), an open-sou
 
 ---
 
+
 # 🎓 Microsoft Applied Skills
 
 | Credential | Link |
-|---|---|
-| Get Started with Azure Management Tasks | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/samueleze-7111/E48296270708B0F1?sharingId=20E65231C26DBE10) |
-| Secure Storage for Azure Files and Azure Blob Storage | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/samueleze-7111/20E40441341DA492?sharingId=20E65231C26DBE10) |
+| --- | --- |
+| Get Started with Azure Management Tasks | [View Credential](https://learn.microsoft.com/...) |
+| Secure Storage for Azure Files and Azure Blob Storage | [View Credential](https://learn.microsoft.com/...) |
+| Get started with cloud security and monitoring tasks | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/samueleze-7111/7A412867812E14DD?sharingId=20E65231C26DBE10) |
 
 ---
 
