@@ -100,6 +100,7 @@ Contributed to [PinpointPro](https://github.com/raphgm/pinpointpro), an open-sou
 | Get Started with Azure Management Tasks | [View Credential](https://learn.microsoft.com/...) |
 | Secure Storage for Azure Files and Azure Blob Storage | [View Credential](https://learn.microsoft.com/...) |
 | Get started with cloud security and monitoring tasks | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/samueleze-7111/7A412867812E14DD?sharingId=20E65231C26DBE10) |
+| Get started with identities and access using Microsoft Entra | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/samueleze-7111/5F971052505551C2?sharingId=20E65231C26DBE10) |
 
 ---
 
