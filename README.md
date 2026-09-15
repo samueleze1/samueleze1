@@ -34,6 +34,28 @@ building real-world projects, and continuously improving my technical skills.
 
 # 🚀 Featured projects
 
+### 🏠🛡️ HomeShield — Smart Home Security Platform
+
+A full-stack smart home security application designed to help homeowners monitor and protect their properties through security alerts, system controls, and suspicious-activity detection.
+
+**Technologies:** React, TypeScript, Vite, Node.js, Express, MongoDB Atlas, JSON Web Tokens, Bcrypt, Google Authentication, Railway, Cloudflare Workers, and Microsoft Azure.
+
+**Features:**
+
+* Security dashboard
+* Arm, disarm, and stay modes
+* Door and window alerts
+* Gas leak and smoke alerts
+* Suspicious-activity detection
+* Security event history
+* Emergency contact management
+* Security device monitoring
+
+**Links:**
+🔗 [View HomeShield Repository](https://github.com/samueleze1/HomeShield)
+🌐 [Launch Live Application](https://react-example.sammie4jarah.workers.dev/)
+
+
 ## 🌟 Global Retail Azure Infrastructure Deployment Using Azure CLI
 
 An end-to-end Azure infrastructure deployment project built with Azure CLI, featuring Linux and Windows virtual machines, virtual networking, NSGs, IIS configuration, SSH/RDP connectivity, and a Windows 11 VM deployed in an Availability Zone for high availability.
@@ -74,6 +96,8 @@ Hands-on YAML project covering YAML fundamentals, nested structures, lists, data
 A hands-on Kubernetes project focused on creating and structuring an Nginx Pod manifest using YAML, with practical experience in Kubernetes configuration, YAML syntax, Git, and GitHub.
 
 Repository: https://github.com/samueleze1/YAML-Architect.git
+
+
 
 
 
