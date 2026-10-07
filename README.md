@@ -128,14 +128,15 @@ A hands-on Kubernetes project focused on creating and structuring an Nginx Pod m
 
 I actively contribute to open-source projects to gain real-world development experience, collaborate with maintainers, and improve my engineering skills.
 
+## 🟢 Merged Contributions
+
 ---
 
 ## 🔧 RedoSan-Authenticity
 
-### ESLint DOM Types & CDN Imports
+### PR #537 — ESLint DOM Types & CDN Imports
 
-**Issue:** #527
-**Pull Request:** #537
+**Issue:** #527  
 **Status:** ✅ Merged — October 6, 2026
 
 Contributed a code-level ESLint configuration improvement to eliminate warnings caused by standard browser DOM/WebCrypto types and legitimate browser ESM imports from CDNs.
@@ -160,26 +161,13 @@ Contributed a code-level ESLint configuration improvement to eliminate warnings 
 
 ---
 
-## 📍 PinpointPro
-
-Contributed to [PinpointPro](https://github.com/raphgm/pinpointpro), an open-source context-aware digital workspace.
-
-### PR #5 — CONTRIBUTORS.md Update
-
-* Added my details to the project's `CONTRIBUTORS.md` as a Phase 2 Project Contributor
-* Helped maintain accurate contributor records and acknowledge community participation
-
-🔗 [Pull Request #5](https://github.com/raphgm/pinpointpro/pull/5)
-
----
-
 ## 🇯🇵 Kana Dojo
-
-Contributed to [Kana Dojo](https://github.com/lingdojo/kana-dojo), an open-source Japanese language-learning platform built with Next.js.
 
 ### PR #30979 — Video Game Quote Contribution
 
-Added a Japanese video-game quote to the project's learning content.
+**Status:** ✅ Merged — September 26, 2026
+
+Contributed a Japanese video-game quote to the project's learning content.
 
 **Contribution included:**
 
@@ -191,6 +179,77 @@ Added a Japanese video-game quote to the project's learning content.
 🔗 [Repository](https://github.com/lingdojo/kana-dojo)
 
 🔗 [Pull Request #30979](https://github.com/lingdojo/kana-dojo/pull/30979)
+
+---
+
+## 📍 PinpointPro
+
+### PR #5 — CONTRIBUTORS.md Update
+
+**Status:** ✅ Merged — July 2, 2026
+
+* Added my details to the project's `CONTRIBUTORS.md` as a Phase 2 Project Contributor
+* Helped maintain accurate contributor records and acknowledge community participation
+
+🔗 [Pull Request #5](https://github.com/raphgm/pinpointpro/pull/5)
+
+---
+
+## 🎮 Bonobo Game
+
+### PR #537 — ESLint DOM Types & CDN Imports
+
+**Status:** ✅ Merged
+
+Contributed to the Bonobo Game project through issue assignment and code changes that were merged into the project's main branch.
+
+🔗 [Pull Request #537](https://github.com/nicpanozzo/bonobo-game/pull/537)
+
+---
+
+## 🟡 Open Contributions
+
+---
+
+## 🎮 Bonobo Game
+
+### PR #161 — Samuel Eze Anayo in Godot Credits
+
+**Status:** 🟡 Open — Awaiting Maintainer Review
+
+Added Samuel Eze Anayo (`@samueleze1`) to the contributor list in the current Godot client credits.
+
+**Validation:**
+
+* `npm run typecheck` — **passed**
+* `npm test` — **170/170 passed**
+* `git diff --check` — **passed**
+
+🔗 [Pull Request #161](https://github.com/nicpanozzo/bonobo-game/pull/161)
+
+---
+
+## ⚪ Closed / Not Merged
+
+---
+
+## 🎮 Bonobo Game
+
+### PR #39 — Credits Screen
+
+**Status:** ⚪ Closed — Not merged
+
+Earlier credits-screen implementation for the old Phaser client. The project has since moved its official client to Godot, so this PR was closed rather than merged.
+
+🔗 [Pull Request #39](https://github.com/nicpanozzo/bonobo-game/pull/39)
+
+### PR #65 — Camera Follow
+
+**Status:** ⚪ Closed — Not merged
+
+Earlier camera-follow implementation for the old web client.
+
+🔗 [Pull Request #65](https://github.com/nicpanozzo/bonobo-game/pull/65)
 
 ---
 
