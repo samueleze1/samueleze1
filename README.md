@@ -195,18 +195,6 @@ Contributed a Japanese video-game quote to the project's learning content.
 
 ---
 
-## 🎮 Bonobo Game
-
-### PR #537 — ESLint DOM Types & CDN Imports
-
-**Status:** ✅ Merged
-
-Contributed to the Bonobo Game project through issue assignment and code changes that were merged into the project's main branch.
-
-🔗 [Pull Request #537](https://github.com/nicpanozzo/bonobo-game/pull/537)
-
----
-
 ## 🟡 Open Contributions
 
 ---
