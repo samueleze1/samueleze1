@@ -199,10 +199,10 @@ Contributed a Japanese video-game quote to the project's learning content.
 
 | Credential                                                   | Status      |
 | ------------------------------------------------------------ | ----------- |
-| Get Started with Azure Management Tasks                      | ✅ Completed |
-| Secure Storage for Azure Files and Azure Blob Storage        | ✅ Completed |
-| Get Started with Cloud Security and Monitoring Tasks         | ✅ Completed |
-| Get Started with Identities and Access Using Microsoft Entra | ✅ Completed |
+| [Get Started with Azure Management Tasks](https://learn.microsoft.com/api/credentials/share/en-us/samueleze-7111/E48296270708B0F1?sharingId=20E65231C26DBE10) | Completed |
+| [Secure Storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/api/credentials/share/en-us/samueleze-7111/20E40441341DA492?sharingId=20E65231C26DBE10) | Completed |
+| [Get Started with Cloud Security and Monitoring Tasks](https://learn.microsoft.com/api/credentials/share/en-us/samueleze-7111/7A412867812E14DD?sharingId=20E65231C26DBE10) | Completed |
+| [Get Started with Identities and Access Using Microsoft Entra](https://learn.microsoft.com/api/credentials/share/en-us/samueleze-7111/5F971052505551C2?sharingId=20E65231C26DBE10) | Completed |
 
 ---
 
