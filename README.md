@@ -195,52 +195,6 @@ Contributed a Japanese video-game quote to the project's learning content.
 
 ---
 
-## 🟡 Open Contributions
-
----
-
-## 🎮 Bonobo Game
-
-### PR #161 — Samuel Eze Anayo in Godot Credits
-
-**Status:** 🟡 Open — Awaiting Maintainer Review
-
-Added Samuel Eze Anayo (`@samueleze1`) to the contributor list in the current Godot client credits.
-
-**Validation:**
-
-* `npm run typecheck` — **passed**
-* `npm test` — **170/170 passed**
-* `git diff --check` — **passed**
-
-🔗 [Pull Request #161](https://github.com/nicpanozzo/bonobo-game/pull/161)
-
----
-
-## ⚪ Closed / Not Merged
-
----
-
-## 🎮 Bonobo Game
-
-### PR #39 — Credits Screen
-
-**Status:** ⚪ Closed — Not merged
-
-Earlier credits-screen implementation for the old Phaser client. The project has since moved its official client to Godot, so this PR was closed rather than merged.
-
-🔗 [Pull Request #39](https://github.com/nicpanozzo/bonobo-game/pull/39)
-
-### PR #65 — Camera Follow
-
-**Status:** ⚪ Closed — Not merged
-
-Earlier camera-follow implementation for the old web client.
-
-🔗 [Pull Request #65](https://github.com/nicpanozzo/bonobo-game/pull/65)
-
----
-
 # 🎓 Microsoft Applied Skills
 
 | Credential                                                   | Status      |
